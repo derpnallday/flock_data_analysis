@@ -1,4 +1,4 @@
-shipment_id,,TRUE,Delay,Late
+shipment_id,Date,TRUE,Delay,Late
 163831,2018-08-10,2018-08-13,3,TRUE
 163966,2018-08-10,2018-08-13,3,TRUE
 163979,2018-08-16,,,FALSE
